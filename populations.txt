@@ -1,0 +1,168 @@
+California
+39512000
+Sacramento
+Texas
+28996000
+Austin
+Florida
+21477000
+Tallahassee
+New York
+19453000
+Albany
+Pennsylvania
+12802000
+Harrisburg
+Illinois
+12671000
+Springfield
+Ohio
+11689000
+Columbus
+Georgia
+10617000
+Atlanta
+North Carolina
+10488000
+Raleigh
+Michigan
+9987000
+Lansing
+New Jersey
+8882000
+Trenton
+Virginia
+8536000
+Richmond
+Washington
+7615000
+Olympia
+Arizona
+7279000
+Phoenix
+Massachusetts
+6893000
+Boston
+Tennessee
+6829000
+Nashville
+Indiana
+6732000
+Indianapolis
+Missouri
+6137000
+Jefferson City
+Maryland
+6046000
+Annapolis
+Wisconsin
+5822000
+Madison
+Minnesota
+5640000
+St Paul
+Colorado
+5759000
+Denver
+South Carolina
+5149000
+Columbia
+Alabama
+4903000
+Montgomery
+Louisiana
+4649000
+Baton Rouge
+Kentucky
+4468000
+Frankfort
+Oregon
+4218000
+Salem
+Oklahoma
+3957000
+Oklahoma City
+Connecticut
+3565000
+Hartford
+Utah
+3206000
+Salt Lake City
+Iowa
+3155000
+Des Moines
+Nevada
+3080000
+Carson City
+Arkansas
+3018000
+Little Rock
+Mississippi
+2976000
+Jackson
+Kansas
+2913000
+Topeka
+New Mexico
+2097000
+Santa Fe
+Nebraska
+1934000
+Lincoln
+West Virginia
+1792000
+Charleston
+Idaho
+1787000
+Boise
+Hawaii
+1416000
+Honolulu
+New Hampshire
+1360000
+Concord
+Maine
+1344000
+Augusta
+Montana
+1069000
+Helena
+Rhode Island
+1059000
+Providence
+Delaware
+974000
+Dover
+South Dakota
+885000
+Pierre
+North Dakota
+762000
+Bismarck
+Alaska
+732000
+Juneau
+Vermont
+624000
+Montpelier
+Wyoming
+579000
+Cheyenne
+District of Columbia
+706000
+Washington DC
+American Samoa
+56000
+Pago Pago
+Guam
+168000
+Hagåtña (Agaña)
+Northern Mariana Islands
+51000
+Saipan
+Puerto Rico
+3194000
+San Juan
+US Virgin Islands
+106000
+Charlotte Amalie
